@@ -1,5 +1,5 @@
 🫁 Lung Cancer Detection using CT Scan Images
-This project uses deep learning to classify lung CT scan images into three categories — Normal, Benign, and Malignant — to assist in early detection and diagnosis of lung cancer.
+This project uses deep learning to classify lung CT scan images into three categories — Normal, Benign, and Malignant - to assist in early detection and diagnosis of lung cancer.
 
 
 📂 File Overview
